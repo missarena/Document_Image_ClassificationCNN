@@ -11,11 +11,7 @@ This project presents a deep learning-based solution for classifying document im
 Document_Image_ClassificationCNN/
 ├── README.md      
 ├── Document_classification_code.ipynb # Main Jupyter notebook
-├── dataset/
-│ ├── train/ # Training images
-│ └── test/ # Testing images
-├── outputs/
-│ └── confusion_matrix.png
+├── confusion_matrix.png
 ├── requirements.txt 
 
 ## 🖼️ Dataset Used
