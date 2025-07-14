@@ -10,7 +10,7 @@ This project presents a deep learning-based solution for classifying document im
 ## 📁 Code Structure
 Document_Image_ClassificationCNN/
 ├── README.md      
-├── Document_classification_cnn_code.ipynb # Main Jupyter notebook
+├── Document_classification_code.ipynb # Main Jupyter notebook
 ├── dataset/
 │ ├── train/ # Training images
 │ └── test/ # Testing images
